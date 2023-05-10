@@ -516,7 +516,9 @@ version = "0.21.4"
 
 [[deps.JSServe]]
 deps = ["Base64", "CodecZlib", "Colors", "Dates", "Deno_jll", "HTTP", "Hyperscript", "LinearAlgebra", "Markdown", "MsgPack", "Observables", "RelocatableFolders", "SHA", "Sockets", "Tables", "Test", "ThreadPools", "URIs", "UUIDs", "WidgetsBase"]
-git-tree-sha1 = "fc24eb61515fdb49f4702a2a8b620020fff158ca"
+git-tree-sha1 = "a7f61b286dc1496239cdb988230b2fc0b7ff9f11"
+repo-rev = "c57a4f0d99f5fb75f3f8b8fa810e277d3d68df3b"
+repo-url = "https://github.com/frankier/JSServe.jl"
 uuid = "824d6782-a2ef-11e9-3a09-e5662e0c26f9"
 version = "2.2.2"
 
